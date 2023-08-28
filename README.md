@@ -1,5 +1,4 @@
-# AC-TSR
-## Attention Calibration for Transformer-based Sequential Recommendation
+# Attention Calibration for Transformer-based Sequential Recommendation
 
 🚧 **Codebase Update In Progress!** 🚧
 
