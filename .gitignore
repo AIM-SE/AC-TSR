@@ -1,0 +1,8 @@
+dataset/
+log/
+log_tensorboard/
+saved/
+
+/.idea/
+*.pyc
+__pycache__/
