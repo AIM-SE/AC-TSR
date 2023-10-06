@@ -49,7 +49,7 @@ $ tree
 bash scripts/run_AC-SAS.sh amazon-beauty
 ```
 
-**Tips** here we provide the hyper-parameters for AC-SASRec on for different datasets ('amazon-beauty', 'amazon-sports-outdoors', 'amazon-toys-games' and 'yelp'). Due to some stochastic factors ass well as the different hard-ware environment you use, slightly tuning the hyper-parameters using grid search is necessary if you want to reproduce the performance.
+**Tips** here we provide the hyper-parameters for AC-SASRec on for different datasets ('amazon-beauty', 'amazon-sports-outdoors', 'amazon-toys-games' and 'yelp'). Due to some stochastic factors as well as the different hard-ware environment you use, slightly tuning the hyper-parameters using grid search is necessary if you want to reproduce the performance.
 
 ## Cite Us
 ```
